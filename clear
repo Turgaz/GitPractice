@@ -1,0 +1,59 @@
+[33mcommit cc31b44a1951fa905655c6d1005d7b7b46963594[m[33m ([m[1;36mHEAD -> [m[1;32mwork[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Thu Feb 23 14:52:32 2023 +0100
+
+    added a new Package (work) and class(WorkTest) in it
+
+[33mcommit 5fe94074b6196fdf3baf7191c173a4bbaa1980ea[m[33m ([m[1;32mtest[m[33m)[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 21:10:18 2023 +0100
+
+    add a new Location package and class
+
+[33mcommit 98fcef2e0fd662163d480375aa6644454d623b0e[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 20:54:20 2023 +0100
+
+    adding TestPackage
+
+[33mcommit a44ea46e92b23cd53f9b6a377aae29aba9b249eb[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 20:11:21 2023 +0100
+
+    Updating gitignore and adding BranchPractice
+
+[33mcommit 2f3b49473322d4fc5df9a9903e67d60ae1a46a5d[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 19:44:47 2023 +0100
+
+    Added new lines in Test002
+
+[33mcommit be2d047b4b2da478a4f9028e54fb741a37163fe2[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 19:38:09 2023 +0100
+
+    Test003 is added
+
+[33mcommit dfa01104a03479a7ac76c573a475a61e110627cb[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 19:35:07 2023 +0100
+
+    Test002 and Test003 added
+
+[33mcommit 618796a21c6301642f5b35d3cd33ff24b1f7e311[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Wed Feb 22 19:32:40 2023 +0100
+
+    gitignore and Test001 classes added
+
+[33mcommit 506cc2eab7c78fbbdec07b80a5848c8b0b69fc68[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Tue Feb 21 21:39:52 2023 +0100
+
+    Test2 is uploaded
+
+[33mcommit 09a2d191c29e3356251a50f3e6d5294de5c48c06[m
+Author: Tarik <turgayakcay@gmail.com>
+Date:   Tue Feb 21 21:34:42 2023 +0100
+
+    Test1 and SmokeTest1 uploded
